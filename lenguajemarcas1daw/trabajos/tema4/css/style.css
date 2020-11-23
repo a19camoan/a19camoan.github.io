@@ -1,15 +1,18 @@
 p,span {
     font-size: 16px;
+    color: blue;
 }
 
-p span {
+p > span {
     font-size: 14px;
+    color: green;
 }
 
-header {
+header > p{
     font-size: 22px;
+    color: red;
 }
-
+/*
 p[name] {
     background: yellow;
 }
@@ -33,3 +36,4 @@ p[name$="p4"] {
 p[name*="p5"] {
     background: orange;
 }
+*/

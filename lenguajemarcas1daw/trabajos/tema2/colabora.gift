@@ -1,29 +1,17 @@
- {
-	=
-	~.
-	~.
-	~.}
+ ¿Cuáles son las herramientas esenciales para escribir HTML? {
+	=Navegador y editor de texto
+	~Editor de texto y Opera.
+	~Navegador y procesador de texto.
+	~Visual Studio Code y Chrome.}
 
- {
-	~.
-	=
-	~.
-	~.}
+Elementos que forman un elemento HTML {
+	~Etique de inicio, atributos y etiqueta de cierre.
+	=Etiqueta de cierre, etiqueta de inicio y contenido
+	~Texto, valor y elementos.
+	~Etiqueta de inicio, contenido y selector.}
 
- {
-	~.
-	=
-	~.
-	~.}
-
- {
-	~.
-	=.
-	~
-	~}
-
- {
-	=
-	~.
-	~.
-	~.}
+World Wide Web (WWW) es {
+	~el protocolo de transferencia de hipertexto.
+	=un servicio de Internet para el acceso a documentos de hipertexto vinculados entre sí y accesibles a través de navegadores
+	~es una infraestructura de red. Una gran red de redes. Conecta millones de dispositivos de forma global.
+	~un juego de caracteres universal, un estándar que define todos los caracteres necesarios para utilizar cualquier idioma en un ordenador.}
