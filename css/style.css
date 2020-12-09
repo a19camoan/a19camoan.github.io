@@ -10,6 +10,7 @@ a:link {
 
 li {
     text-align: center;
+    list-style-type: none;
     border-radius: 25px;
     background-color: rgb(26, 236, 26);
     border: 2px solid rgb(26, 156, 189);
