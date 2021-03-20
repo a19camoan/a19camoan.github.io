@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- falta DOCTYPE y xml -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!-- faltan atributos en el elemento html -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+
+<head>
+    <!-- falta elemento meta -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!-- elemento title no cerrado -->
+    <title>Convertir HTML a XHTML</title>
+</head>
+
+<!-- no hay body -->
+<body>
+    <!-- muy mal el atributo "del cuerpo" y valor en español y sin comillas dobles, atributo color undefined, asi que borrado-->
+    <text color="blue">
+        <h1> Página XHTML</h1>
+        <!-- se cierra p antes que b -->
+        <p> <b> Es importante que su sitio esté actualizado con los estándares W3C más recientes.</b> </p>
+        Bienvenido a mi <b> página </b>.
+        <!-- elemento br no cerrado -->
+        <br/>
+        <!-- elemento i sin contendio -->
+        Espero que disfrutes <i>de </i> tu estancia.
+        <!-- borrado el "+" del size=+2 y entrecomillado el 2 -->
+        <p color="#9900FF" face="Arial" size= "2">
+            <!-- elemento "font" no definido -->
+            XHTML es similar a HTML
+        </p>
+        <!-- a la etiqueta de inicio en a le sobraba una barra  y valor de href no entrecomillado -->
+        <a href="http://validator.w3.org">Validador </a>
+    <!-- elemento texto no cerrado -->
+    </text>
+
+</body>
+
+<!-- elemento html mal cerrado -->
+</html>
