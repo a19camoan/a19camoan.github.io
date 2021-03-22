@@ -1,25 +1,37 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Ejercicos Andrés Castillero Moriana</title>
-    <description>Ejercicios realizados en clase sobre xml</description>
-    <item>
-      <title>Practica ciclos</title>
-     <link>trabajos/xsd_tanda2/ciclos.xml</link> 
-     <description>Ejercicio propuesto en clase con tematica de ciclos del instituto</description>
-    </item>
-    <item>
-      <title>Practica paises</title>
-     <link>trabajos/xds_tanda1/paises/paises.xml</link>
-     <description>Ejercicio propuesto en clase con tematica de paises</description>
-    </item>
-    <item>
-      <title>Practica personas</title>
-     <link>trabajos/xds_tanda1/personas/personas.xml</link>
-     <description>Ejercicio DTD propuesto en clase sobre personas y sus datos ademas de probar elementos dentro de otros juntos con texto</description>
-     <title>Practica personas 2</title>
-     <link>trabajos/xsd_tanda2/personas2.xml</link> 
-     <description>Ejercicio xsd propuesto en clase sobre personas</description>
-    </item>
-  </channel>
+    <channel>
+
+        <title>Ejercicos Andrés Castillero Moriana</title>
+        <description>Ejercicios realizados en clase sobre xml</description>
+
+        <item>
+
+            <title>Practica ciclos</title>
+            <link>trabajos/xsd_tanda2/ciclos.xml</link>
+            <description>Ejercicio propuesto en clase con tematica de ciclos del instituto</description>
+
+        </item>
+
+        <item>
+
+            <title>Practica paises</title>
+            <link>trabajos/xds_tanda1/paises/paises.xml</link>
+            <description>Ejercicio propuesto en clase con tematica de paises</description>
+        </item>
+
+
+        <item>
+
+            <title>Practica personas</title>
+            <link>trabajos/xds_tanda1/personas/personas.xml</link>
+            <description>Ejercicio DTD propuesto en clase sobre personas y sus datos ademas de probar elementos dentro
+                de otros juntos con texto</description>
+            <title>Practica personas 2</title>
+            <link>trabajos/xsd_tanda2/personas2.xml</link>
+            <description>Ejercicio xsd propuesto en clase sobre personas</description>
+
+        </item>
+
+    </channel>
 </rss>
