@@ -34,5 +34,13 @@
 
         </item>
 
+        <item>
+
+            <title>Trabajo ERPs</title>
+            <link>trabajos\ra9\erp\index.html</link>
+            <description>Exposición sobre qué son los ERPs en páguina con Bootstrap 5</description>
+
+        </item>
+
     </channel>
 </rss>
