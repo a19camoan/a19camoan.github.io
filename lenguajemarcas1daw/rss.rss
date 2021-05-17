@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
 
-        <title>Ejercicos Andrés Castillero Moriana</title>
+        <title>Ejercicios Andrés Castillero Moriana</title>
         <description>Ejercicios realizados en clase sobre xml</description>
 
         <item>
@@ -38,7 +38,15 @@
 
             <title>Trabajo ERPs</title>
             <link>trabajos\ra9\erp\index.html</link>
-            <description>Exposición sobre qué son los ERPs en páguina con Bootstrap 5</description>
+            <description>Exposición sobre qué son los ERPs en página con Bootstrap 5</description>
+
+        </item>
+
+        <item>
+
+            <title>Trabajo Odoo</title>
+            <link>trabajos\ra9\odoo\index.html</link>
+            <description>Instalación y configuración de Odoo en página con Bootstrap 5</description>
 
         </item>
 
